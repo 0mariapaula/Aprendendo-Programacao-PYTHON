@@ -13,3 +13,5 @@ nome = str(input("Ola! informe o seu nome:  "))
 ano = int(input("Agora " + nome + " informe o ano que nasceu: "))
 x = 2025 - ano
 print("Oi {}, a sua idade é {}".format(nome, x))
+
+
